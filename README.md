@@ -9,7 +9,7 @@
 
 An intelligent content tool that scrapes Google, extracts live web data with Bright Data MCP, and uses AI to generate articles from real-time research.
 
-<img src="https://img.shields.io/badge/python-3.8+-blue" /> <img src="https://img.shields.io/badge/Node.js-18+-success" /> <img src="https://img.shields.io/badge/License-Research-orange" />
+<img src="https://img.shields.io/badge/python-3.8+-blue" /> <img src="https://img.shields.io/badge/Node.js-18+-success" /> <img src="https://img.shields.io/badge/License-MIT-blue" />
 
 <img src="https://media.brightdata.com/2025/09/Demo-gif.gif" />
 </div>
