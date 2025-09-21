@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-openai
+streamlit
+crewai-tools[mcp]
+crewai
+mcp
+python-dotenv
